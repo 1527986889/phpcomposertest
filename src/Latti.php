@@ -1,8 +1,10 @@
-namespace Latti
+<?php
+
+namespace Latti;
 
 class Latti
 {
-    public function index()
+    public static function index()
     {
         echo "111";
     }
