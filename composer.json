@@ -1,5 +1,5 @@
 {
-    "name": "wukerunphptest/wukerunphptest",
+    "name": "wukerunphptest/wukerun",
     "type": "library",
     "description": "发布测试发布测试发布测试",
     "keywords": ["framework", "http", "rest", "web service", "curl", "client", "HTTP client"],
